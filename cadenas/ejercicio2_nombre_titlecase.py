@@ -1,2 +1,2 @@
-# Versión inicial: empezando ejercicio7
-"juan_perez_garcia"
+# Versión final: ejercicio7 sin variables
+print("juan_perez_garcia".replace("_", " ").title())
