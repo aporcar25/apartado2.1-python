@@ -57,7 +57,7 @@ Cada ejercicio tiene al menos dos commits: uno de inicio y otro final y un **tag
 ---
 
 ## Control de versiones
-Cada ejercicio sigue este flujo:
+Cada ejercicio sigue estos pasos:
 
 1. Commit inicial (`wip`) → archivo creado o con algo escrito escrito.  
 2. Commit final (`feat`) → ejercicio terminado sin variables.  
