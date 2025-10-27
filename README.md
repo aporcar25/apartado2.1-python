@@ -59,8 +59,8 @@ Cada ejercicio tiene al menos dos commits: uno de inicio y otro final y un **tag
 ## Control de versiones
 Cada ejercicio sigue estos pasos:
 
-1. Commit inicial (`wip`) → archivo creado o con algo escrito escrito.  
-2. Commit final (`feat`) → ejercicio terminado sin variables.  
+1. Commit inicial → archivo creado o con algo escrito escrito.  
+2. Commit final → ejercicio terminado sin variables.  
 3. Tag final → `v1.0-ejerX` para marcar versión estable.  
 
 Todos los ejercicios están subidos a GitHub y etiquetados correctamente.
