@@ -1,11 +1,11 @@
-# 🐍 Ejercicios Lección 2 - Tipos Simples en Python
+# Ejercicios Lección 2 - Tipos Simples en Python
 
-Este repositorio contiene los ejercicios del apartado 2.1 de la Lección 2, organizados por tipo de dato y siguiendo la regla: **sin usar variables**, usando solo `print()` y valores literales.  
-Cada ejercicio tiene al menos dos commits: uno de inicio (`wip`) y otro final (`feat`) y un **tag** que marca la versión final.
+Este repositorio contiene los ejercicios del apartado 2.1 de la Lección 2.
+Cada ejercicio tiene al menos dos commits: uno de inicio y otro final y un **tag** que marca la versión final.
 
 ---
 
-## 🔢 Índice de Ejercicios
+## Índice de Ejercicios
 
 | N° | Ejercicio | Descripción | Tag final |
 |----|------------|-------------|------------|
@@ -19,7 +19,7 @@ Cada ejercicio tiene al menos dos commits: uno de inicio (`wip`) y otro final (`
 
 ---
 
-## 💡 Algoritmos
+## Algoritmos
 
 ### Ejercicio 1: Perímetro y área del rectángulo
 1. Identificar base y altura.  
@@ -56,12 +56,11 @@ Cada ejercicio tiene al menos dos commits: uno de inicio (`wip`) y otro final (`
 
 ---
 
-## 🏷️ Control de versiones
+## Control de versiones
 Cada ejercicio sigue este flujo:
 
-1. Commit inicial (`wip`) → archivo creado o parcialmente escrito.  
+1. Commit inicial (`wip`) → archivo creado o con algo escrito escrito.  
 2. Commit final (`feat`) → ejercicio terminado sin variables.  
 3. Tag final → `v1.0-ejerX` para marcar versión estable.  
 
 Todos los ejercicios están subidos a GitHub y etiquetados correctamente.
-G
